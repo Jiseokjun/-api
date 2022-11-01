@@ -17,6 +17,7 @@ public class HomeController {
 	public String list() {
 		return "list";
 	}
+	
 }
 
 
